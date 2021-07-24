@@ -169,3 +169,4 @@ npm install redux react-redux redux-thunk
 - 表格： 前端分页和后端分页
 - 动态增减表单
 - antd 表单验证以及正则
+- 截图上传功能

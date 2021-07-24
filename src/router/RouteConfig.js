@@ -104,6 +104,12 @@ const RouteConfig = [
     component: require("@page/FormValidate_lib").default,
     key: "formValidate",
   },
+  {
+    title: "图片上传",
+    path: "/uploadImg",
+    component: require("@page/UploadImg_lib").default,
+    key: "uploadImg",
+  },
 ];
 
 export default RouteConfig;
